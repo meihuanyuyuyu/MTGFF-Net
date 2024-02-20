@@ -11,6 +11,7 @@
 #忽略文件:
 *.pyc
 *.pt
+*.json
 *.npy
 *.pth
 *.png
