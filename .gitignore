@@ -1,0 +1,21 @@
+# 忽略文件夹：
+./figures/*
+./exp_data/*
+./log/*
+./model_para/*
+./numpy_results/*
+./pretrained_model/*
+./splitted_index/*
+
+
+#忽略文件:
+*.pyc
+*.pt
+*.npy
+*.pth
+*.png
+*.jpg
+*.xml
+*.tif
+*.mat
+.autodl

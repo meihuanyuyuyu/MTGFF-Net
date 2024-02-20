@@ -1,0 +1,1 @@
+from .mtgff_config import *
