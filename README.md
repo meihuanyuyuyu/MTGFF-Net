@@ -1,1 +1,1 @@
-# MTGFF-Net
+# GGNIS
